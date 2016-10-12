@@ -1,0 +1,12 @@
+2016-10-12 12:40:40,580 0    [main] WARN  org.apache.axis.utils.JavaUtils  - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-12 13:05:11,558 0    [main] WARN  org.apache.axis.utils.JavaUtils  - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-12 13:05:12,126 568  [main] INFO  gov.weather.NdfdXMLBindingStubTest  - gov.weather.DwmlType@25bbf683
+2016-10-12 13:07:48,698 1    [main] WARN  org.apache.axis.utils.JavaUtils  - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-12 13:07:49,176 479  [main] INFO  gov.weather.NdfdXMLBindingStubTest  - 43.0798,-89.3875
+2016-10-12 13:58:59,898 0    [main] WARN  org.apache.axis.utils.JavaUtils  - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-12 13:59:00,433 535  [main] INFO  gov.weather.NdfdXMLBindingStubTest  - 43.0798,-89.3875
+2016-10-12 13:59:07,893 0    [main] WARN  org.apache.axis.utils.JavaUtils  - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-12 13:59:08,238 345  [main] INFO  gov.weather.NdfdXMLBindingStubTest  - 43.0798,-89.3875
+2016-10-12 13:59:26,793 0    [main] WARN  org.apache.axis.utils.JavaUtils  - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-12 14:03:06,691 0    [main] WARN  org.apache.axis.utils.JavaUtils  - Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+2016-10-12 14:03:07,099 408  [main] INFO  gov.weather.NdfdXMLBindingStubTest  - 43.0798,-89.3875
